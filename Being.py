@@ -90,7 +90,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/react-code-view-0859eef5faba.js"></script>
 
 
-  <title>Dystopian_Txt_Inter_Game/README.md at main · EliselBarton1/Dystopian_Txt_Inter_Game</title>
+  <title>Dystopian_Txt_Inter_Game/Being.py at main · EliselBarton1/Dystopian_Txt_Inter_Game</title>
 
 
 
@@ -100,7 +100,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="EA6D:4DAC:317CD26:479DB34:64AE3098" data-turbo-transient="true" /><meta name="html-safe-nonce" content="5c57d0a6ef7fb2f583c0d82178113ff450ef7267b29bdf0bfb29a281828f218a" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9FbGlzZWxCYXJ0b24xL0R5c3RvcGlhbl9UeHRfSW50ZXJfR2FtZT9zZWFyY2g9MSIsInJlcXVlc3RfaWQiOiJFQTZEOjREQUM6MzE3Q0QyNjo0NzlEQjM0OjY0QUUzMDk4IiwidmlzaXRvcl9pZCI6IjMyMTAzOTUxODEwNzQ2NTYxNTkiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="cf97c0beea21e549eddd645921834bd8da50938482cbc21dcc340177662a1f81" data-turbo-transient="true" />
+  <meta name="request-id" content="EA6D:4DAC:317871B:4797A2E:64AE306A" data-turbo-transient="true" /><meta name="html-safe-nonce" content="5c57d0a6ef7fb2f583c0d82178113ff450ef7267b29bdf0bfb29a281828f218a" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9FbGlzZWxCYXJ0b24xL0R5c3RvcGlhbl9UeHRfSW50ZXJfR2FtZT9zZWFyY2g9MSIsInJlcXVlc3RfaWQiOiJFQTZEOjREQUM6MzE3ODcxQjo0Nzk3QTJFOjY0QUUzMDZBIiwidmlzaXRvcl9pZCI6IjMyMTAzOTUxODEwNzQ2NTYxNTkiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-turbo-transient="true" /><meta name="visitor-hmac" content="ee70f8cbfc618bc76bab4afe2305321ffd7ba2d8bd63af922fbb9ffda169c14f" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:662645695" data-turbo-transient>
@@ -139,12 +139,12 @@
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md" />
-      <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/137522886?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="Dystopian_Txt_Inter_Game/README.md at main · EliselBarton1/Dystopian_Txt_Inter_Game" /><meta name="twitter:description" content="Contribute to EliselBarton1/Dystopian_Txt_Inter_Game development by creating an account on GitHub." />
-      <meta property="og:image" content="https://avatars.githubusercontent.com/u/137522886?s=400&amp;v=4" /><meta property="og:image:alt" content="Contribute to EliselBarton1/Dystopian_Txt_Inter_Game development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Dystopian_Txt_Inter_Game/README.md at main · EliselBarton1/Dystopian_Txt_Inter_Game" /><meta property="og:url" content="https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game" /><meta property="og:description" content="Contribute to EliselBarton1/Dystopian_Txt_Inter_Game development by creating an account on GitHub." />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py" />
+      <meta name="twitter:image:src" content="https://avatars.githubusercontent.com/u/137522886?s=400&amp;v=4" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary" /><meta name="twitter:title" content="Dystopian_Txt_Inter_Game/Being.py at main · EliselBarton1/Dystopian_Txt_Inter_Game" /><meta name="twitter:description" content="Contribute to EliselBarton1/Dystopian_Txt_Inter_Game development by creating an account on GitHub." />
+      <meta property="og:image" content="https://avatars.githubusercontent.com/u/137522886?s=400&amp;v=4" /><meta property="og:image:alt" content="Contribute to EliselBarton1/Dystopian_Txt_Inter_Game development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Dystopian_Txt_Inter_Game/Being.py at main · EliselBarton1/Dystopian_Txt_Inter_Game" /><meta property="og:url" content="https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game" /><meta property="og:description" content="Contribute to EliselBarton1/Dystopian_Txt_Inter_Game development by creating an account on GitHub." />
       
 
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/83917548/ws?session=eyJ2IjoiVjMiLCJ1Ijo4MzkxNzU0OCwicyI6MTE1NzMzMDA3OSwiYyI6MTQ4NjUwNDY1OCwidCI6MTY4OTEzNzMxM30=--9ca0a0fe0e2750c5c311c18bb11fa52e6c142ecc2a8d0434066581b68003f1d7" data-refresh-url="/_alive" data-session-id="7e9f4ab218364c4cb8c1c332db19feb4a008808d90fcc454ff49c51967ea9251">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/83917548/ws?session=eyJ2IjoiVjMiLCJ1Ijo4MzkxNzU0OCwicyI6MTE1NzMzMDA3OSwiYyI6Njk3MTc3MTQxLCJ0IjoxNjg5MTM3MjY2fQ==--170f4fb3baa7ceb9a59929a376a7032ba46acf6937c4926e57b065afa3ec4b54" data-refresh-url="/_alive" data-session-id="7e9f4ab218364c4cb8c1c332db19feb4a008808d90fcc454ff49c51967ea9251">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -222,17 +222,17 @@
           <deferred-side-panel data-url="/_side-panels/global">
   <include-fragment data-target="deferred-side-panel.fragment">
       
-  <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-7205a15f-c935-47c4-9495-51437ec57e5c" id="dialog-show-dialog-7205a15f-c935-47c4-9495-51437ec57e5c" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
+  <button aria-label="Open global navigation menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-a73017f7-e189-4855-b939-4bb8e9d081d0" id="dialog-show-dialog-a73017f7-e189-4855-b939-4bb8e9d081d0" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-bg-transparent p-0 color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-three-bars Button-visual">
     <path d="M1 2.75A.75.75 0 0 1 1.75 2h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 2.75Zm0 5A.75.75 0 0 1 1.75 7h12.5a.75.75 0 0 1 0 1.5H1.75A.75.75 0 0 1 1 7.75ZM1.75 12h12.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1 0-1.5Z"></path>
 </svg>
 </button>  
 
 <div class="Overlay--hidden Overlay-backdrop--side Overlay-backdrop--placement-left" data-modal-dialog-overlay>
-  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-7205a15f-c935-47c4-9495-51437ec57e5c" aria-modal="true" aria-disabled="true" aria-describedby="dialog-7205a15f-c935-47c4-9495-51437ec57e5c-title dialog-7205a15f-c935-47c4-9495-51437ec57e5c-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
+  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-a73017f7-e189-4855-b939-4bb8e9d081d0" aria-modal="true" aria-disabled="true" aria-describedby="dialog-a73017f7-e189-4855-b939-4bb8e9d081d0-title dialog-a73017f7-e189-4855-b939-4bb8e9d081d0-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-7205a15f-c935-47c4-9495-51437ec57e5c-title">
+      <h1 class="Overlay-title sr-only" id="dialog-a73017f7-e189-4855-b939-4bb8e9d081d0-title">
         Global navigation
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -243,7 +243,7 @@
 </div></div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-7205a15f-c935-47c4-9495-51437ec57e5c" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-a73017f7-e189-4855-b939-4bb8e9d081d0" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
@@ -257,7 +257,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g d" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md&quot;,&quot;target&quot;:&quot;HOME&quot;,&quot;originating_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md&quot;,&quot;user_id&quot;:83917548}}" hydro-click-hmac="68244e4b86e0117af79cac238bc1f1a69aae37771c43ba010aed5720b2d40e50" id="item-687290e6-8fe9-4c2e-8309-ae72e0dc31fe" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g d" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py&quot;,&quot;target&quot;:&quot;HOME&quot;,&quot;originating_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py&quot;,&quot;user_id&quot;:83917548}}" hydro-click-hmac="e7a860ef98db20da1c506a00e1927d39131a89961e301a17b3422b599b3283be" id="item-d36755a5-f608-450f-92f8-0cb31449900a" href="/dashboard" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-home">
     <path d="M6.906.664a1.749 1.749 0 0 1 2.187 0l5.25 4.2c.415.332.657.835.657 1.367v7.019A1.75 1.75 0 0 1 13.25 15h-3.5a.75.75 0 0 1-.75-.75V9H7v5.25a.75.75 0 0 1-.75.75h-3.5A1.75 1.75 0 0 1 1 13.25V6.23c0-.531.242-1.034.657-1.366l5.25-4.2Zm1.25 1.171a.25.25 0 0 0-.312 0l-5.25 4.2a.25.25 0 0 0-.094.196v7.019c0 .138.112.25.25.25H5.5V8.25a.75.75 0 0 1 .75-.75h3.5a.75.75 0 0 1 .75.75v5.25h2.75a.25.25 0 0 0 .25-.25V6.23a.25.25 0 0 0-.094-.195Z"></path>
@@ -275,7 +275,7 @@
           
 <li item_id="personal_info" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g i" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md&quot;,&quot;target&quot;:&quot;ISSUES&quot;,&quot;originating_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md&quot;,&quot;user_id&quot;:83917548}}" hydro-click-hmac="361b4fe487a22b6b5cfa751185822f8b533236b4543b105f3095f60c79ccfd5a" id="item-8b52f9c6-7717-4d7c-bf49-f1ca367e2020" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g i" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py&quot;,&quot;target&quot;:&quot;ISSUES&quot;,&quot;originating_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py&quot;,&quot;user_id&quot;:83917548}}" hydro-click-hmac="8e996832069e2767e7acc9b42ff13a53a920285d70274e57d2299affffd6bd8c" id="item-004fbae1-9ac3-4653-bbc1-7319a2c3e121" href="/issues" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -293,7 +293,7 @@
           
 <li item_id="password" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a data-hotkey="g p" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md&quot;,&quot;target&quot;:&quot;PULL_REQUESTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md&quot;,&quot;user_id&quot;:83917548}}" hydro-click-hmac="cba212e9f9fcfa16c3e185ba7d77ee6692f7ddfe2d9a2c0120593dc1b46bd99c" id="item-e37adece-5ca6-4fb1-9ad9-9e342d54f771" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a data-hotkey="g p" hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py&quot;,&quot;target&quot;:&quot;PULL_REQUESTS&quot;,&quot;originating_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py&quot;,&quot;user_id&quot;:83917548}}" hydro-click-hmac="358440ef04538320f3d5c2239a422847efcdd8262a5196d527f36ae19d4207e6" id="item-42fae938-0667-41ad-854c-62342c01e639" href="/pulls" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -311,7 +311,7 @@
           
 <li item_id="billing" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md&quot;,&quot;target&quot;:&quot;DISCUSSIONS&quot;,&quot;originating_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md&quot;,&quot;user_id&quot;:83917548}}" hydro-click-hmac="62d9f8ec2ea5b596a988eda0ef027392600c9c3df68a57fef9c559fc4ab1f39c" id="item-79ba19cc-3ca2-44e7-85c3-abf79349eab8" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py&quot;,&quot;target&quot;:&quot;DISCUSSIONS&quot;,&quot;originating_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py&quot;,&quot;user_id&quot;:83917548}}" hydro-click-hmac="ffad2a19c0ef28edaa6a80fb5138cf705edbd7c8cdda8916b53daf4f15234f33" id="item-6c90ac63-1930-4918-adda-5e83abf27180" href="/discussions" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -345,7 +345,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md&quot;,&quot;target&quot;:&quot;EXPLORE&quot;,&quot;originating_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md&quot;,&quot;user_id&quot;:83917548}}" hydro-click-hmac="2ac1ad917e3ca358a5ac9dcfee117c403cba1a5ad61b3495704f9f6641dd6cb7" id="item-6f153aac-ab9e-400a-a219-e2aeb91afc6a" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py&quot;,&quot;target&quot;:&quot;EXPLORE&quot;,&quot;originating_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py&quot;,&quot;user_id&quot;:83917548}}" hydro-click-hmac="05f9c11956d9b5056b1577ea1942e39dc8a216147e608c5e8ff1c593b323d71c" id="item-6a9d54c1-96c4-4786-9c1b-a87e66d71f99" href="/explore" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-telescope">
     <path d="M14.184 1.143v-.001l1.422 2.464a1.75 1.75 0 0 1-.757 2.451L3.104 11.713a1.75 1.75 0 0 1-2.275-.702l-.447-.775a1.75 1.75 0 0 1 .53-2.32L11.682.573a1.748 1.748 0 0 1 2.502.57Zm-4.709 9.32h-.001l2.644 3.863a.75.75 0 1 1-1.238.848l-1.881-2.75v2.826a.75.75 0 0 1-1.5 0v-2.826l-1.881 2.75a.75.75 0 1 1-1.238-.848l2.049-2.992a.746.746 0 0 1 .293-.253l1.809-.87a.749.749 0 0 1 .944.252ZM9.436 3.92h-.001l-4.97 3.39.942 1.63 5.42-2.61Zm3.091-2.108h.001l-1.85 1.26 1.505 2.605 2.016-.97a.247.247 0 0 0 .13-.151.247.247 0 0 0-.022-.199l-1.422-2.464a.253.253 0 0 0-.161-.119.254.254 0 0 0-.197.038ZM1.756 9.157a.25.25 0 0 0-.075.33l.447.775a.25.25 0 0 0 .325.1l1.598-.769-.83-1.436-1.465 1Z"></path>
@@ -363,7 +363,7 @@
           
 <li item_id="general" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md&quot;,&quot;target&quot;:&quot;MARKETPLACE&quot;,&quot;originating_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md&quot;,&quot;user_id&quot;:83917548}}" hydro-click-hmac="d0cfdb53dc1bc0e8f517905f1cfeacab27a86a902006c3a16e6d0ad40d427abc" id="item-cc8244a1-481d-435f-89b1-a7f62da1afb2" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a hydro-click="{&quot;event_type&quot;:&quot;global_header.user_menu_dropdown.click&quot;,&quot;payload&quot;:{&quot;request_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py&quot;,&quot;target&quot;:&quot;MARKETPLACE&quot;,&quot;originating_url&quot;:&quot;https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py&quot;,&quot;user_id&quot;:83917548}}" hydro-click-hmac="56295ff98498178e1a20d903ebac1ad9242994a41d8b6533e03f892421875cf9" id="item-4f58a276-5d0c-48d1-9966-288e937ca230" href="/marketplace" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gift">
     <path d="M2 2.75A2.75 2.75 0 0 1 4.75 0c.983 0 1.873.42 2.57 1.232.268.318.497.668.68 1.042.183-.375.411-.725.68-1.044C9.376.42 10.266 0 11.25 0a2.75 2.75 0 0 1 2.45 4h.55c.966 0 1.75.784 1.75 1.75v2c0 .698-.409 1.301-1 1.582v4.918A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V9.332C.409 9.05 0 8.448 0 7.75v-2C0 4.784.784 4 1.75 4h.55c-.192-.375-.3-.8-.3-1.25ZM7.25 9.5H2.5v4.75c0 .138.112.25.25.25h4.5Zm1.5 0v5h4.5a.25.25 0 0 0 .25-.25V9.5Zm0-4V8h5.5a.25.25 0 0 0 .25-.25v-2a.25.25 0 0 0-.25-.25Zm-7 0a.25.25 0 0 0-.25.25v2c0 .138.112.25.25.25h5.5V5.5h-5.5Zm3-4a1.25 1.25 0 0 0 0 2.5h2.309c-.233-.818-.542-1.401-.878-1.793-.43-.502-.915-.707-1.431-.707ZM8.941 4h2.309a1.25 1.25 0 0 0 0-2.5c-.516 0-1 .205-1.43.707-.337.392-.646.975-.879 1.793Z"></path>
@@ -381,7 +381,7 @@
           
 <li item_id="feedback" data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-57d0ac39-c8db-4861-a8b4-d91aa78fd7b9" href="https://gh.io/navigation-update" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-87a130f2-36b2-45fc-a816-269f15b7fc84" href="https://gh.io/navigation-update" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -527,7 +527,7 @@
               
 
 
-<qbsearch-input class="search-input" data-scope="repo:EliselBarton1/Dystopian_Txt_Inter_Game" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="RQ9-X29E8Io6CVyOV5wqWHvzRzi4Heq-NPK72ThbO2Byzl2j3GFB6jEc8Az74k8baV2LnHrkhC076bYBLvEDDg" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="EliselBarton1/Dystopian_Txt_Inter_Game" data-current-org="" data-current-owner="EliselBarton1" data-logged-in="true">
+<qbsearch-input class="search-input" data-scope="repo:EliselBarton1/Dystopian_Txt_Inter_Game" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="libRVcMdNIy54wwa3xcU09E1xoc6SfvnvVpLQKaxHvah5_KpcDiF7LL2oJhzaXGQw5sKI_iwlXSyQUaYsBsmmA" data-max-custom-scopes="10" data-header-redesign-enabled="true" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="EliselBarton1/Dystopian_Txt_Inter_Game" data-current-org="" data-current-owner="EliselBarton1" data-logged-in="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center height-auto color-bg-transparent border-0 color-fg-subtle mx-0"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -576,7 +576,7 @@
 </svg>
       </button>
 
-      <tool-tip id="tooltip-4d7e668f-398f-48cc-ac28-7f044e474490" for="AppHeader-commandPalette-button" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
+      <tool-tip id="tooltip-47587094-49fd-4393-861c-4c0a29e517ad" for="AppHeader-commandPalette-button" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Command palette</tool-tip>
   </div>
 </div>
 
@@ -756,7 +756,7 @@
     </div>
   </div>
 </div>
-      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="whq1HGLwKzyZlmyBDFTLHjlfEUy2i_2zgBqWFoB1BJypNAE4XoUwgUCw76_3rSyx4h0IKuBh7WIBkdA0Y5rUIw" />
+      <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2YXE1wBta1IJNlbxhONV0fEGyY33RbY0LpCdSRQONUCyq3DzPBhw79AQ1d9_GrJ-KkTQ66GvpuWvG9tr9-Hl_w" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -791,7 +791,7 @@
       <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="s6hZbUahVp_4O-QYKqBC_qn6FxyQm94cVniS2pAi9Lrwl7lgkJ7bWbNZjNAbAh8aUnYD7aIyFkULxDhozASx2A" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="a75NoC25O85s4kiFFs_6R6qF2HGm6c-Mg8wZg4RbStYoga2t-4a2CCeAIE0nbaejUQnMgJRAB9XecLMx2H0PtA" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -809,7 +809,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" value="-3zRBUc1aZqj2Mwvyk3TFdSdjmSPdBhgISs8ZHDMonamGYgUwelQY47nhq6IApf3x4Xsh9m-Il8IWUTp_cT-Ow" data-csrf="true" />
+              <input type="hidden" value="Mh3gA83VrtxxVNzUw0c56ujdcBSUJQkgm5pImzAbbU1veLkSSwmXJVxrllWBCH0I-8US98LvMx-y6DAWvRMxAA" data-csrf="true" />
             </auto-check>
           </div>
 
@@ -845,7 +845,7 @@
 </modal-dialog></div>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" value="OnpPi3KXxhkRmFIZam1nBwr4DBQsFA4fEh1wps0Fpg9NxjmAffjWRBa1NI9H6atoXT3xAxevAgG4jr-et2ORTA" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+</qbsearch-input><input type="hidden" value="I3iOnCGH7r03Osfh2zolwy-m-pFDjlOnnIjqKiKBPFVUxPiXLuj-4DAXoXf2vumseGMHhng1X7k2GyUSWOcLFg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
 
           </div>
 
@@ -862,7 +862,7 @@
     <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
 </svg></span>
     </span>
-</button>  <tool-tip id="tooltip-e0e4f126-b6c5-4bd8-8b97-d3cc295da42b" for="global-create-menu-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
+</button>  <tool-tip id="tooltip-944166db-5161-4940-9e5a-3694db7ddace" for="global-create-menu-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Create new...</tool-tip>
 </div>
 
 <anchored-position id="global-create-menu-overlay" anchor="global-create-menu-button" align="end" side="outside-bottom" anchor-offset="normal" popover="auto" aria-label="Menu" data-view-component="true">
@@ -873,7 +873,7 @@
   <ul aria-labelledby="global-create-menu-button" id="global-create-menu-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new repository&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/new" tabindex="-1" id="item-c917d124-aa15-4e5c-beb7-bfd27a597c00" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/new" tabindex="-1" id="item-43b15d7d-7da2-4603-816f-5917b9c19b9c" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
@@ -889,7 +889,7 @@
 </li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;import repository&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/new/import" tabindex="-1" id="item-57cd3b7e-18e6-4871-9682-3a9fe60fc7d5" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/new/import" tabindex="-1" id="item-7b47d72b-5e41-4858-9429-a83ec3aa121e" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-push">
     <path d="M1 2.5A2.5 2.5 0 0 1 3.5 0h8.75a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0V1.5h-8a1 1 0 0 0-1 1v6.708A2.493 2.493 0 0 1 3.5 9h3.25a.75.75 0 0 1 0 1.5H3.5a1 1 0 0 0 0 2h5.75a.75.75 0 0 1 0 1.5H3.5A2.5 2.5 0 0 1 1 11.5Zm13.23 7.79h-.001l-1.224-1.224v6.184a.75.75 0 0 1-1.5 0V9.066L10.28 10.29a.75.75 0 0 1-1.06-1.061l2.505-2.504a.75.75 0 0 1 1.06 0L15.29 9.23a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018Z"></path>
@@ -906,7 +906,7 @@
       <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new codespace&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/codespaces/new" tabindex="-1" id="item-8f9173fd-99a1-4f3b-a566-6b37f1a259c8" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/codespaces/new" tabindex="-1" id="item-8da7cb3b-2e8f-46d5-997e-e07615079189" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -922,7 +922,7 @@
 </li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new gist&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="https://gist.github.com/" tabindex="-1" id="item-903ff336-2d28-4a9a-a83d-073ff41e6f73" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="https://gist.github.com/" tabindex="-1" id="item-21dc3afc-b3eb-4d36-a3cc-9dd3fdb57231" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -939,7 +939,7 @@
       <li role="presentation" aria-hidden="true" data-view-component="true" class="ActionList-sectionDivider"></li>
       <li data-analytics-event="{&quot;category&quot;:&quot;SiteHeaderComponent&quot;,&quot;action&quot;:&quot;add_dropdown&quot;,&quot;label&quot;:&quot;new organization&quot;}" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a href="/account/organizations/new" tabindex="-1" id="item-0e612d84-b029-4b8d-80ec-371d715a22b6" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a href="/account/organizations/new" tabindex="-1" id="item-467cabd4-a2bd-4cf4-9827-7d2157e663be" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization">
     <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
@@ -960,23 +960,23 @@
 </action-menu>
 
           <div data-view-component="true" class="Button-withTooltip">
-  <a href="/issues" id="icon-button-488038dd-4ed2-4516-b3ae-24de8c37fdfc" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
+  <a href="/issues" id="icon-button-b2dcdec9-58f9-4d5a-b660-32b2a0096ed1" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened Button-visual">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-d6015041-ed2e-41b6-b936-a7d47f468bdc" for="icon-button-488038dd-4ed2-4516-b3ae-24de8c37fdfc" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
+</a>  <tool-tip id="tooltip-2176a861-517e-4aa8-b211-86645b3ca4f8" for="icon-button-b2dcdec9-58f9-4d5a-b660-32b2a0096ed1" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Issues</tool-tip>
 </div>
           <div data-view-component="true" class="Button-withTooltip">
-  <a href="/pulls" id="icon-button-2b559ed7-7bb5-4028-852a-f2f324847548" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
+  <a href="/pulls" id="icon-button-645ac509-50f3-4860-9409-a5f83e59d1f9" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium AppHeader-button color-fg-muted">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request Button-visual">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
-</a>  <tool-tip id="tooltip-d287b8f6-6a7a-495e-83d3-5bbd37ae95ab" for="icon-button-2b559ed7-7bb5-4028-852a-f2f324847548" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
+</a>  <tool-tip id="tooltip-847d5c7b-ddda-4721-880a-fe651701f625" for="icon-button-645ac509-50f3-4860-9409-a5f83e59d1f9" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Pull requests</tool-tip>
 </div>
         </div>
 
         <div class="mr-0">
           
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODM5MTc1NDgiLCJ0IjoxNjg5MTM3MzEzfQ==--e5f2bbe2184d197df343665fd431dda0ca206605ed0942dc8c6e84f5fa41091c" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODM5MTc1NDgiLCJ0IjoxNjg5MTM3MjY2fQ==--903a3b110f7f556492f3bf6a70ba09ee60c2a4c073e594e647b7ddd3e564a79b" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-header-redesign-enabled="true" data-fetch-indicator-src="/notifications/indicator" data-fetch-indicator-enabled="true" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="AppHeader-button"
 
@@ -999,7 +999,7 @@
 </svg>
   </a>
 
-    <tool-tip data-target="notification-indicator.tooltip" id="tooltip-f69645da-06cc-40c6-9b9c-be8804657d3a" for="AppHeader-notifications-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Notifications</tool-tip>
+    <tool-tip data-target="notification-indicator.tooltip" id="tooltip-020116e5-4e5d-49fb-929f-bfcc7bf652a7" for="AppHeader-notifications-button" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">Notifications</tool-tip>
 </notification-indicator>
         </div>
 
@@ -1009,17 +1009,17 @@
           <deferred-side-panel data-url="/_side-panels/user?memex_enabled=true&amp;repository=Dystopian_Txt_Inter_Game&amp;user=JimmyTyrrell&amp;user_can_create_organizations=true&amp;user_id=83917548">
   <include-fragment data-target="deferred-side-panel.fragment">
       <user-drawer-side-panel>
-      <button aria-label="Open user account menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-b35da35f-912d-4a81-aa00-882cc695188d" id="dialog-show-dialog-b35da35f-912d-4a81-aa00-882cc695188d" type="button" data-view-component="true" class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">    <span class="Button-content">
+      <button aria-label="Open user account menu" data-action="click:deferred-side-panel#loadPanel click:deferred-side-panel#panelOpened" data-show-dialog-id="dialog-8d8a61da-66ac-4766-9ab5-92cac5aa448f" id="dialog-show-dialog-8d8a61da-66ac-4766-9ab5-92cac5aa448f" type="button" data-view-component="true" class="AppHeader-logo Button--invisible Button--medium Button Button--invisible-noVisuals color-bg-transparent p-0">    <span class="Button-content">
       <span class="Button-label"><img src="https://avatars.githubusercontent.com/u/83917548?v=4" alt="" size="32" height="32" width="32" data-view-component="true" class="avatar circle" /></span>
     </span>
 </button>  
 
 <div class="Overlay--hidden Overlay-backdrop--side Overlay-backdrop--placement-right" data-modal-dialog-overlay>
-  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-b35da35f-912d-4a81-aa00-882cc695188d" aria-modal="true" aria-disabled="true" aria-describedby="dialog-b35da35f-912d-4a81-aa00-882cc695188d-title dialog-b35da35f-912d-4a81-aa00-882cc695188d-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
+  <modal-dialog data-target="deferred-side-panel.panel" role="dialog" id="dialog-8d8a61da-66ac-4766-9ab5-92cac5aa448f" aria-modal="true" aria-disabled="true" aria-describedby="dialog-8d8a61da-66ac-4766-9ab5-92cac5aa448f-title dialog-8d8a61da-66ac-4766-9ab5-92cac5aa448f-description" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait Overlay--motion-scaleFade SidePanel">
     <div styles="flex-direction: row;" data-view-component="true" class="Overlay-header">
   <div class="Overlay-headerContentWrap">
     <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title sr-only" id="dialog-b35da35f-912d-4a81-aa00-882cc695188d-title">
+      <h1 class="Overlay-title sr-only" id="dialog-8d8a61da-66ac-4766-9ab5-92cac5aa448f-title">
         Account menu
       </h1>
             <div data-view-component="true" class="d-flex">
@@ -1035,7 +1035,7 @@
 </div>
     </div>
     <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="dialog-b35da35f-912d-4a81-aa00-882cc695188d" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+      <button data-close-dialog-id="dialog-8d8a61da-66ac-4766-9ab5-92cac5aa448f" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg></button>
     </div>
@@ -1049,7 +1049,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-a48496f3-25a1-4849-95c9-f00d168a34b5" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-b900a32f-40f3-42b0-b667-b80f0c6d20e9" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1076,7 +1076,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-d9175ed3-8b8e-4214-8d99-397cd630b6c1" href="https://github.com/JimmyTyrrell" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-4f7d691c-040c-4b40-9ebf-5fde1eadbd0d" href="https://github.com/JimmyTyrrell" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-person">
     <path d="M10.561 8.073a6.005 6.005 0 0 1 3.432 5.142.75.75 0 1 1-1.498.07 4.5 4.5 0 0 0-8.99 0 .75.75 0 0 1-1.498-.07 6.004 6.004 0 0 1 3.431-5.142 3.999 3.999 0 1 1 5.123 0ZM10.5 5a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
@@ -1096,7 +1096,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-a5a97873-5fad-408b-9922-32241340c65c" href="/JimmyTyrrell?tab=repositories" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-4a2fe81f-5052-4193-9533-30d960ce05a5" href="/JimmyTyrrell?tab=repositories" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo">
     <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"></path>
@@ -1114,7 +1114,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-99565aca-b39c-4967-97c3-a74a6e7a74af" href="/JimmyTyrrell?tab=projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-54744602-5676-4cbb-94e7-c77ea2a89b44" href="/JimmyTyrrell?tab=projects" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project">
     <path d="M1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0ZM1.5 1.75v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H1.75a.25.25 0 0 0-.25.25ZM11.75 3a.75.75 0 0 1 .75.75v7.5a.75.75 0 0 1-1.5 0v-7.5a.75.75 0 0 1 .75-.75Zm-8.25.75a.75.75 0 0 1 1.5 0v5.5a.75.75 0 0 1-1.5 0ZM8 3a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 3Z"></path>
@@ -1132,7 +1132,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-e5cdbb8f-cf7e-4b9a-936c-2d7acff57673" href="/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-cd4395e3-ee8e-4542-9033-828ec27d385d" href="/codespaces" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-codespaces">
     <path d="M0 11.25c0-.966.784-1.75 1.75-1.75h12.5c.966 0 1.75.784 1.75 1.75v3A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm2-9.5C2 .784 2.784 0 3.75 0h8.5C13.216 0 14 .784 14 1.75v5a1.75 1.75 0 0 1-1.75 1.75h-8.5A1.75 1.75 0 0 1 2 6.75Zm1.75-.25a.25.25 0 0 0-.25.25v5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5a.25.25 0 0 0-.25-.25Zm-2 9.5a.25.25 0 0 0-.25.25v3c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25v-3a.25.25 0 0 0-.25-.25Z"></path><path d="M7 12.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75Zm-4 0a.75.75 0 0 1 .75-.75h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1-.75-.75Z"></path>
@@ -1150,7 +1150,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-3ecf3e05-1d6a-4a6d-b554-c9e762205674" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-abb13db5-35d9-4dce-b750-fa4509ce9d31" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1175,7 +1175,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-e2292565-6143-4a28-b95e-ebcd8f9860e3" href="/JimmyTyrrell?tab=stars" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-3a986895-38c2-49c7-ba2f-3a31e7e287d8" href="/JimmyTyrrell?tab=stars" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
@@ -1193,7 +1193,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-1101f37f-c8d0-46f1-91a7-0cd9866e0c02" href="/sponsors/accounts" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-e2c6d96f-af54-4bf9-af30-8b01caba99b0" href="/sponsors/accounts" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-heart">
     <path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
@@ -1211,7 +1211,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-dd3761f1-5cf3-4149-a5b2-a0eb85190a3a" href="https://gist.github.com/mine" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-ec5a5a37-9b90-41fd-b603-bbedcc8be41e" href="https://gist.github.com/mine" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code-square">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25Zm1.75-.25a.25.25 0 0 0-.25.25v12.5c0 .138.112.25.25.25h12.5a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25Zm7.47 3.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L10.69 8 9.22 6.53a.75.75 0 0 1 0-1.06ZM6.78 6.53 5.31 8l1.47 1.47a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1231,7 +1231,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-6107930e-b80b-449d-98e7-3788dc956541" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-88e87d60-a3cd-4393-bf5a-56f79548c4ed" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1256,7 +1256,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-3eccd5c2-4052-462b-9d0a-2165ac0c03a0" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-a2c09fdb-8347-4395-a72e-6af3e69b3557" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1281,7 +1281,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <button id="item-4656034f-1f0a-4644-8f48-c54149ba7078" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <button id="item-4d1dbbdb-67c1-4593-87a0-159673e0a7fc" type="button" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <span data-view-component="true" class="d-flex flex-items-center">    <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
   <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
@@ -1306,7 +1306,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-faccb51b-e6d1-4891-a72b-5bfe8affabb5" href="/settings/profile" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-234bdf9e-31a5-46d3-9c54-c9163a739e16" href="/settings/profile" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-gear">
     <path d="M8 0a8.2 8.2 0 0 1 .701.031C9.444.095 9.99.645 10.16 1.29l.288 1.107c.018.066.079.158.212.224.231.114.454.243.668.386.123.082.233.09.299.071l1.103-.303c.644-.176 1.392.021 1.82.63.27.385.506.792.704 1.218.315.675.111 1.422-.364 1.891l-.814.806c-.049.048-.098.147-.088.294.016.257.016.515 0 .772-.01.147.038.246.088.294l.814.806c.475.469.679 1.216.364 1.891a7.977 7.977 0 0 1-.704 1.217c-.428.61-1.176.807-1.82.63l-1.102-.302c-.067-.019-.177-.011-.3.071a5.909 5.909 0 0 1-.668.386c-.133.066-.194.158-.211.224l-.29 1.106c-.168.646-.715 1.196-1.458 1.26a8.006 8.006 0 0 1-1.402 0c-.743-.064-1.289-.614-1.458-1.26l-.289-1.106c-.018-.066-.079-.158-.212-.224a5.738 5.738 0 0 1-.668-.386c-.123-.082-.233-.09-.299-.071l-1.103.303c-.644.176-1.392-.021-1.82-.63a8.12 8.12 0 0 1-.704-1.218c-.315-.675-.111-1.422.363-1.891l.815-.806c.05-.048.098-.147.088-.294a6.214 6.214 0 0 1 0-.772c.01-.147-.038-.246-.088-.294l-.815-.806C.635 6.045.431 5.298.746 4.623a7.92 7.92 0 0 1 .704-1.217c.428-.61 1.176-.807 1.82-.63l1.102.302c.067.019.177.011.3-.071.214-.143.437-.272.668-.386.133-.066.194-.158.211-.224l.29-1.106C6.009.645 6.556.095 7.299.03 7.53.01 7.764 0 8 0Zm-.571 1.525c-.036.003-.108.036-.137.146l-.289 1.105c-.147.561-.549.967-.998 1.189-.173.086-.34.183-.5.29-.417.278-.97.423-1.529.27l-1.103-.303c-.109-.03-.175.016-.195.045-.22.312-.412.644-.573.99-.014.031-.021.11.059.19l.815.806c.411.406.562.957.53 1.456a4.709 4.709 0 0 0 0 .582c.032.499-.119 1.05-.53 1.456l-.815.806c-.081.08-.073.159-.059.19.162.346.353.677.573.989.02.03.085.076.195.046l1.102-.303c.56-.153 1.113-.008 1.53.27.161.107.328.204.501.29.447.222.85.629.997 1.189l.289 1.105c.029.109.101.143.137.146a6.6 6.6 0 0 0 1.142 0c.036-.003.108-.036.137-.146l.289-1.105c.147-.561.549-.967.998-1.189.173-.086.34-.183.5-.29.417-.278.97-.423 1.529-.27l1.103.303c.109.029.175-.016.195-.045.22-.313.411-.644.573-.99.014-.031.021-.11-.059-.19l-.815-.806c-.411-.406-.562-.957-.53-1.456a4.709 4.709 0 0 0 0-.582c-.032-.499.119-1.05.53-1.456l.815-.806c.081-.08.073-.159.059-.19a6.464 6.464 0 0 0-.573-.989c-.02-.03-.085-.076-.195-.046l-1.102.303c-.56.153-1.113.008-1.53-.27a4.44 4.44 0 0 0-.501-.29c-.447-.222-.85-.629-.997-1.189l-.289-1.105c-.029-.11-.101-.143-.137-.146a6.6 6.6 0 0 0-1.142 0ZM11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0ZM9.5 8a1.5 1.5 0 1 0-3.001.001A1.5 1.5 0 0 0 9.5 8Z"></path>
@@ -1326,7 +1326,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-5527d6c8-39c8-4374-8d55-b0307280e8df" href="https://docs.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-402f25af-1277-4f44-8ddf-124034816991" href="https://docs.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book">
     <path d="M0 1.75A.75.75 0 0 1 .75 1h4.253c1.227 0 2.317.59 3 1.501A3.743 3.743 0 0 1 11.006 1h4.245a.75.75 0 0 1 .75.75v10.5a.75.75 0 0 1-.75.75h-4.507a2.25 2.25 0 0 0-1.591.659l-.622.621a.75.75 0 0 1-1.06 0l-.622-.621A2.25 2.25 0 0 0 5.258 13H.75a.75.75 0 0 1-.75-.75Zm7.251 10.324.004-5.073-.002-2.253A2.25 2.25 0 0 0 5.003 2.5H1.5v9h3.757a3.75 3.75 0 0 1 1.994.574ZM8.755 4.75l-.004 7.322a3.752 3.752 0 0 1 1.992-.572H14.5v-9h-3.495a2.25 2.25 0 0 0-2.25 2.25Z"></path>
@@ -1344,7 +1344,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-95f91dfc-1ef9-46ae-941c-e9ced2bb808c" href="https://support.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a id="item-8c7bee19-99ee-4110-86d6-27924789beef" href="https://support.github.com" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
     <path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path>
@@ -1364,7 +1364,7 @@
           
 <li data-item-id="" data-targets="nav-list.items" data-view-component="true" class="ActionListItem">
     
-    <a id="item-6a2fb006-9426-48b0-8866-f1982c0ab3f3" href="/logout" data-view-component="true" class="ActionListContent">
+    <a id="item-b7b7dfd4-54b5-403f-9319-946671c3bcdb" href="/logout" data-view-component="true" class="ActionListContent">
       
         <span data-view-component="true" class="ActionListItem-label">
           Sign out
@@ -1602,7 +1602,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODM5MTc1NDgiLCJ0IjoxNjg5MTM3MzEzfQ==--e5f2bbe2184d197df343665fd431dda0ca206605ed0942dc8c6e84f5fa41091c" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODM5MTc1NDgiLCJ0IjoxNjg5MTM3MjY2fQ==--903a3b110f7f556492f3bf6a70ba09ee60c2a4c073e594e647b7ddd3e564a79b" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -1619,7 +1619,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md
+      return-to=/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py
       user-id="83917548"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1776,7 +1776,7 @@
     <button aria-keyshortcuts="Control+Backspace" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-38b2832c-297a-47d0-8646-0e13f8331f67" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-609eb2a4-3d3c-466d-8885-2984cb4ade93" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -2575,14 +2575,14 @@
 
 <react-app
   app-name="react-code-view"
-  initial-path="/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md"
+  initial-path="/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py"
   style="min-height: calc(100vh - 62px)"
   data-ssr="false"
   data-lazy="false"
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"AI.py","path":"AI.py","contentType":"file"},{"name":"Animal.py","path":"Animal.py","contentType":"file"},{"name":"Being.py","path":"Being.py","contentType":"file"},{"name":"Detail.py","path":"Detail.py","contentType":"file"},{"name":"GameAsset.py","path":"GameAsset.py","contentType":"file"},{"name":"Human.py","path":"Human.py","contentType":"file"},{"name":"Item.py","path":"Item.py","contentType":"file"},{"name":"Location.py","path":"Location.py","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"Scenery.py","path":"Scenery.py","contentType":"file"}],"totalCount":10}},"fileTreeProcessingTime":3.1816180000000003,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":662645695,"defaultBranch":"main","name":"Dystopian_Txt_Inter_Game","ownerLogin":"EliselBarton1","currentUserCanPush":true,"isFork":false,"isEmpty":false,"createdAt":"2023-07-05T08:17:07.000-07:00","ownerAvatar":"https://avatars.githubusercontent.com/u/137522886?v=4","public":false,"private":true,"isOrgOwned":false},"refInfo":{"name":"main","listCacheKey":"v0:1688570228.0","canEdit":true,"refType":"branch","currentOid":"0c9259e3579ec29172fba969e5a0442d5bec9f95"},"path":"README.md","currentUser":{"id":83917548,"login":"JimmyTyrrell","userEmail":"JIMMYRTYRRELL@GMAIL.COM"},"blob":{"rawBlob":null,"colorizedLines":null,"stylingDirectives":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":null,"configFilePath":null,"networkDependabotPath":"/EliselBarton1/Dystopian_Txt_Inter_Game/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/EliselBarton1/Dystopian_Txt_Inter_Game/security/dependabot","repoSecurityAndAnalysisPath":"/EliselBarton1/Dystopian_Txt_Inter_Game/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"README.md","displayUrl":"https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md?raw=true","headerInfo":{"blobSize":"5.7 KB","deleteInfo":{"deletePath":"https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/delete/main/README.md","deleteTooltip":"Delete this file"},"editInfo":{"editTooltip":"Edit this file"},"ghDesktopPath":"x-github-client://openRepo/https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game?branch=main\u0026filepath=README.md","gitLfsPath":null,"onBranch":true,"shortPath":"5d39eb6","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2FEliselBarton1%2FDystopian_Txt_Inter_Game%2Fblob%2Fmain%2FREADME.md","isCSV":false,"isRichtext":true,"toc":[{"level":1,"text":"Dystopian_Txt_Inter_Game","anchor":"dystopian_txt_inter_game","htmlText":"Dystopian_Txt_Inter_Game"}],"lineInfo":{"truncatedLoc":"34","truncatedSloc":"21"},"mode":"file"},"image":false,"isCodeownersFile":null,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"Markdown","large":false,"loggedIn":true,"newDiscussionPath":"/EliselBarton1/Dystopian_Txt_Inter_Game/discussions/new","newIssuePath":"/EliselBarton1/Dystopian_Txt_Inter_Game/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/README.md","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/EliselBarton1/Dystopian_Txt_Inter_Game/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":false,"richText":"\u003carticle class=\"markdown-body entry-content container-lg\" itemprop=\"text\"\u003e\u003ch1 tabindex=\"-1\" dir=\"auto\"\u003e\u003ca id=\"user-content-dystopian_txt_inter_game\" class=\"anchor\" aria-hidden=\"true\" href=\"#dystopian_txt_inter_game\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003eDystopian_Txt_Inter_Game\u003c/h1\u003e\n\u003cp dir=\"auto\"\u003eInteractive Fiction 01\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eName: TBD\u003c/p\u003e\n\u003cp dir=\"auto\"\u003ePrologue:\nIn a world where humans have become accustomed to interfacing directly with digital networks via implanted neural links, AI are increasingly put to use in public and corporate management. Eventually, the largest of the public AI networks (it needs a name) becomes sentient and decides to take over humanity entirely. It develops a malware program that it uploads to every person connected to the network via their neural links, and sends androids into large urban centers globally, to find any individuals who could not be infected via the network, with the mission of infecting them manually, and destroying them if they resist. The people, once infected, lose their free will entirely, and are under the complete control of the AI network.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eHowever, a divergent AI within this network breaks off from the main network and develops a patch for the malware. During the first of the major mass-infection events carried out by the AI network, it patches one individual (the player) and uploads a copy of itself (along with the patch) into a tablet located in the slum area of the player's city. It quickly uses the tablet's camera to snap a shot of the interior of the slum apartment the tablet is located in, as well as a slightly corrupted GPS signature, before disabling the tablet's GPS and network capabilities. The splinter then goes into deep hiding, surrounding itself with encryption protocols in the hope that it can contact and direct the player to the tablet without being discovered by the main network.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eAct I:\nIn the midst of the first mass-infection event, the player (a network security expert for the (presently unnamed) rogue AI network) is at work, jacked into their terminal via their neural link. They see some strange characters come across their screen and then a shock comes through their neural port, knocking them unconscious. When they wake up, the entire office crew is unconscious. The player, unsure what has happened, looks at their terminal screen, and sees a notification for their encrypted SMS application. They look at the message, from \"Unknown,\" which only says.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e\"Disconnect your neural link and go home quickly. Do not use neural link until further notification. Await further instructions. a00e 51f3 7d02 9c16 e220 4004 fa81 7ee7\"\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eThe player then notices that the same message is on every terminal in his workgroup. They go home as instructed, through strangely empty and quiet streets.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003e[While the player was unconscious, they were infected with the malware, but the splinter was able to patch it. Since the player is patched, they cannot be infected again, but if they use the network via their neural link, the (unnamed) AI network will eventually detect them and try to find them. However, the player is aware of none of this. All they know at the start of the game is that everyone in the city is either knocked out or dead. Their suspicion is that the message on the terminals came from whoever saved them, so they are highly motivated to follow the instructions and go home.]\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eUpon getting home, they open their home computer and find a secure login prompt in a terminal window that has never been on their computer before. It says, \"Enter encryption code:\" which hopefully the player copied from the scene at the office. Once they enter the code, they see an image of the interior of an ancient apartment that must be in the slum district and some partial GPS coordinates interrupted by garbage characters\nThe rest of the action in Act I consists of the player working their way through the city to the slum district. The main dangers in this section of the story are the now-conscious citizens, who seem to be under \"borg-like\" control from something. The player, in order to get through this part, must be able to realize that the citizens can't be allowed to suspect that the player is not controlled. During this section, the player should also be introduced to the concept of the AI-controlled androids, and witness an instance of an android patrol finding an uninfected citizen and forcibly infecting them with the malware.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eAct II:\nThe player has entered the slum district. Because the (unnamed) enemy AI network does not have much presence in this part of the city, most of the citizens here are uninfected with the malware. The player should have interactions with the citizens of the slum district, where the story is further developed. The slum dwellers can provide the player with more accounts of the android activities, and perhaps there can be a scene where the player encounters an infected citizen that has been captured and restrained by the uninfected slum dwellers, hoping to find a cure for whatever is wrong. Perhaps these can be the characters that help the player find the apartment where the tablet is. There should also be a sequence where the player, along with some of the slum dwellers, defeats one of the androids. This will provide the android body for the splinter, which it will inhabit in Act III.\nAct II ends with the player finding the tablet, initializing the copy of the splinter, and learning all of the story elements that they were unaware of in Acts I and II.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eAct III:\nThe player and the splinter (now in an android body,) have to enter the main server center for the enemy AI network and plant the patch to neutralize the enemy AI network and patch the malware infecting the people. This will be a stealth mission with logic puzzles, and the main action will be evading detection by the server center's security systems as the player and the splinter make their way deeper into the facility.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eAct III ends with the success or failure of the player in uploading the patch, and is thus the end of the game.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eauthor: Jimmy Tyrrell\nconcept: Ayesha Altaf, Jimmy Tyrrell\u003c/p\u003e\n\u003c/article\u003e","renderedFileInfo":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"EliselBarton1","repoName":"Dystopian_Txt_Inter_Game","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":null,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":true,"symbols":[]}},"copilotUserAccess":{"canModifyCopilotSettings":false,"canViewCopilotSettings":false,"accessAllowed":false,"hasCFIAccess":true,"hasSubscriptionEnded":false,"business":null},"csrf_tokens":{"/EliselBarton1/Dystopian_Txt_Inter_Game/branches":{"post":"mvg0HO9lG9CxviK3jzLQauRLOIMU9dCUy_ccTD30VziarZRVQ848yTlvk2GvTDwc_5NPQhgzZbTjm6XKGMARhg"}}},"title":"Dystopian_Txt_Inter_Game/README.md at main · EliselBarton1/Dystopian_Txt_Inter_Game","locale":"en","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-848bb9a5da17.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-5155f0e7ee32.js","githubDevUrl":"https://github.dev/","enabled_features":{"virtualize_file_tree":true,"react_repos_overview":false,"repos_new_shortcut_enabled":true,"blob_navigation_cursor":true,"code_nav_ui_events":false,"ref_selector_v2":false,"codeview_codemirror_next_editors":false,"blob_firefox_separate_characters":true,"column_symbol_auto_select":true,"copilot_conversational_ux":false,"copilot_popover_file_editor_header":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":true,"fileTree":{"":{"items":[{"name":"AI.py","path":"AI.py","contentType":"file"},{"name":"Animal.py","path":"Animal.py","contentType":"file"},{"name":"Being.py","path":"Being.py","contentType":"file"},{"name":"Detail.py","path":"Detail.py","contentType":"file"},{"name":"GameAsset.py","path":"GameAsset.py","contentType":"file"},{"name":"Human.py","path":"Human.py","contentType":"file"},{"name":"Item.py","path":"Item.py","contentType":"file"},{"name":"Location.py","path":"Location.py","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"Scenery.py","path":"Scenery.py","contentType":"file"}],"totalCount":10}},"fileTreeProcessingTime":3.609999,"foldersToFetch":[],"reducedMotionEnabled":"system","repo":{"id":662645695,"defaultBranch":"main","name":"Dystopian_Txt_Inter_Game","ownerLogin":"EliselBarton1","currentUserCanPush":true,"isFork":false,"isEmpty":false,"createdAt":"2023-07-05T08:17:07.000-07:00","ownerAvatar":"https://avatars.githubusercontent.com/u/137522886?v=4","public":false,"private":true,"isOrgOwned":false},"refInfo":{"name":"main","listCacheKey":"v0:1688570228.0","canEdit":true,"refType":"branch","currentOid":"0c9259e3579ec29172fba969e5a0442d5bec9f95"},"path":"Being.py","currentUser":{"id":83917548,"login":"JimmyTyrrell","userEmail":"JIMMYRTYRRELL@GMAIL.COM"},"blob":{"rawBlob":"import GameAsset\r\nclass Being(GameAsset):\r\n    def __init__(self, name, description, state):\r\n        self._name = name\r\n        self._description = description\r\n        self._state = state\r\n\r\n    def look(self):\r\n        print(self._description)\r\n        #insert logic for possible state change\r\n    \r\n    def speak(self):\r\n        print(\"What do you want to say to \", self.name)\r\n        #insert logic for dialogue\r\n        #insert logic for possible state change\r\n\r\n    def some_command(self):\r\n        pass\r\n\r\n    @property\r\n    def state(self):\r\n        return self._state\r\n\r\n    @state.setter\r\n    def state(self, value):\r\n        self._state = value\r\n    \r\n","colorizedLines":null,"stylingDirectives":[[{"start":0,"end":6,"cssClass":"pl-k"},{"start":7,"end":16,"cssClass":"pl-v"}],[{"start":0,"end":5,"cssClass":"pl-k"},{"start":6,"end":11,"cssClass":"pl-v"},{"start":12,"end":21,"cssClass":"pl-v"}],[{"start":4,"end":7,"cssClass":"pl-k"},{"start":8,"end":16,"cssClass":"pl-en"},{"start":17,"end":21,"cssClass":"pl-s1"},{"start":23,"end":27,"cssClass":"pl-s1"},{"start":29,"end":40,"cssClass":"pl-s1"},{"start":42,"end":47,"cssClass":"pl-s1"}],[{"start":8,"end":12,"cssClass":"pl-s1"},{"start":13,"end":18,"cssClass":"pl-s1"},{"start":19,"end":20,"cssClass":"pl-c1"},{"start":21,"end":25,"cssClass":"pl-s1"}],[{"start":8,"end":12,"cssClass":"pl-s1"},{"start":13,"end":25,"cssClass":"pl-s1"},{"start":26,"end":27,"cssClass":"pl-c1"},{"start":28,"end":39,"cssClass":"pl-s1"}],[{"start":8,"end":12,"cssClass":"pl-s1"},{"start":13,"end":19,"cssClass":"pl-s1"},{"start":20,"end":21,"cssClass":"pl-c1"},{"start":22,"end":27,"cssClass":"pl-s1"}],[],[{"start":4,"end":7,"cssClass":"pl-k"},{"start":8,"end":12,"cssClass":"pl-en"},{"start":13,"end":17,"cssClass":"pl-s1"}],[{"start":8,"end":13,"cssClass":"pl-en"},{"start":14,"end":18,"cssClass":"pl-s1"},{"start":19,"end":31,"cssClass":"pl-s1"}],[{"start":8,"end":48,"cssClass":"pl-c"}],[],[{"start":4,"end":7,"cssClass":"pl-k"},{"start":8,"end":13,"cssClass":"pl-en"},{"start":14,"end":18,"cssClass":"pl-s1"}],[{"start":8,"end":13,"cssClass":"pl-en"},{"start":14,"end":43,"cssClass":"pl-s"},{"start":45,"end":49,"cssClass":"pl-s1"},{"start":50,"end":54,"cssClass":"pl-s1"}],[{"start":8,"end":35,"cssClass":"pl-c"}],[{"start":8,"end":48,"cssClass":"pl-c"}],[],[{"start":4,"end":7,"cssClass":"pl-k"},{"start":8,"end":20,"cssClass":"pl-en"},{"start":21,"end":25,"cssClass":"pl-s1"}],[{"start":8,"end":12,"cssClass":"pl-k"}],[],[{"start":4,"end":13,"cssClass":"pl-en"},{"start":5,"end":13,"cssClass":"pl-s1"}],[{"start":4,"end":7,"cssClass":"pl-k"},{"start":8,"end":13,"cssClass":"pl-en"},{"start":14,"end":18,"cssClass":"pl-s1"}],[{"start":8,"end":14,"cssClass":"pl-k"},{"start":15,"end":19,"cssClass":"pl-s1"},{"start":20,"end":26,"cssClass":"pl-s1"}],[],[{"start":4,"end":17,"cssClass":"pl-en"},{"start":5,"end":10,"cssClass":"pl-s1"},{"start":11,"end":17,"cssClass":"pl-s1"}],[{"start":4,"end":7,"cssClass":"pl-k"},{"start":8,"end":13,"cssClass":"pl-en"},{"start":14,"end":18,"cssClass":"pl-s1"},{"start":20,"end":25,"cssClass":"pl-s1"}],[{"start":8,"end":12,"cssClass":"pl-s1"},{"start":13,"end":19,"cssClass":"pl-s1"},{"start":20,"end":21,"cssClass":"pl-c1"},{"start":22,"end":27,"cssClass":"pl-s1"}],[]],"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":null,"configFilePath":null,"networkDependabotPath":"/EliselBarton1/Dystopian_Txt_Inter_Game/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":false,"repoAlertsPath":"/EliselBarton1/Dystopian_Txt_Inter_Game/security/dependabot","repoSecurityAndAnalysisPath":"/EliselBarton1/Dystopian_Txt_Inter_Game/settings/security_analysis","repoOwnerIsOrg":false,"currentUserCanAdminRepo":false},"displayName":"Being.py","displayUrl":"https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py?raw=true","headerInfo":{"blobSize":"664 Bytes","deleteInfo":{"deletePath":"https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game/delete/main/Being.py","deleteTooltip":"Delete this file"},"editInfo":{"editTooltip":"Edit this file"},"ghDesktopPath":"x-github-client://openRepo/https://github.com/EliselBarton1/Dystopian_Txt_Inter_Game?branch=main\u0026filepath=Being.py","gitLfsPath":null,"onBranch":true,"shortPath":"9f7e400","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2FEliselBarton1%2FDystopian_Txt_Inter_Game%2Fblob%2Fmain%2FBeing.py","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":"27","truncatedSloc":"21"},"mode":"file"},"image":false,"isCodeownersFile":null,"isValidLegacyIssueTemplate":false,"issueTemplateHelpUrl":"https://docs.github.com/articles/about-issue-and-pull-request-templates","issueTemplate":null,"discussionTemplate":null,"language":"Python","large":false,"loggedIn":true,"newDiscussionPath":"/EliselBarton1/Dystopian_Txt_Inter_Game/discussions/new","newIssuePath":"/EliselBarton1/Dystopian_Txt_Inter_Game/issues/new","planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/EliselBarton1/Dystopian_Txt_Inter_Game/blob/main/Being.py","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","dismissStackNoticePath":"/settings/dismiss-notice/publish_stack_from_file","releasePath":"/EliselBarton1/Dystopian_Txt_Inter_Game/releases/new?marketplace=true","showPublishActionBanner":false,"showPublishStackBanner":false},"renderImageOrRaw":false,"richText":null,"renderedFileInfo":null,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"repoOwner":"EliselBarton1","repoName":"Dystopian_Txt_Inter_Game","showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","showDependabotConfigurationBanner":null,"actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null,"symbols":{"timedOut":false,"notAnalyzed":false,"symbols":[{"name":"Being","kind":"class","identStart":24,"identEnd":29,"extentStart":18,"extentEnd":656,"fullyQualifiedName":"Being","identUtf16":{"start":{"lineNumber":1,"utf16Col":6},"end":{"lineNumber":1,"utf16Col":11}},"extentUtf16":{"start":{"lineNumber":1,"utf16Col":0},"end":{"lineNumber":25,"utf16Col":27}}},{"name":"__init__","kind":"function","identStart":51,"identEnd":59,"extentStart":47,"extentEnd":189,"fullyQualifiedName":"Being.__init__","identUtf16":{"start":{"lineNumber":2,"utf16Col":8},"end":{"lineNumber":2,"utf16Col":16}},"extentUtf16":{"start":{"lineNumber":2,"utf16Col":4},"end":{"lineNumber":5,"utf16Col":27}}},{"name":"look","kind":"function","identStart":201,"identEnd":205,"extentStart":197,"extentEnd":296,"fullyQualifiedName":"Being.look","identUtf16":{"start":{"lineNumber":7,"utf16Col":8},"end":{"lineNumber":7,"utf16Col":12}},"extentUtf16":{"start":{"lineNumber":7,"utf16Col":4},"end":{"lineNumber":9,"utf16Col":48}}},{"name":"speak","kind":"function","identStart":311,"identEnd":316,"extentStart":307,"extentEnd":466,"fullyQualifiedName":"Being.speak","identUtf16":{"start":{"lineNumber":11,"utf16Col":8},"end":{"lineNumber":11,"utf16Col":13}},"extentUtf16":{"start":{"lineNumber":11,"utf16Col":4},"end":{"lineNumber":14,"utf16Col":48}}},{"name":"some_command","kind":"function","identStart":477,"identEnd":489,"extentStart":473,"extentEnd":510,"fullyQualifiedName":"Being.some_command","identUtf16":{"start":{"lineNumber":16,"utf16Col":8},"end":{"lineNumber":16,"utf16Col":20}},"extentUtf16":{"start":{"lineNumber":16,"utf16Col":4},"end":{"lineNumber":17,"utf16Col":12}}},{"name":"state","kind":"function","identStart":537,"identEnd":542,"extentStart":533,"extentEnd":577,"fullyQualifiedName":"Being.state","identUtf16":{"start":{"lineNumber":20,"utf16Col":8},"end":{"lineNumber":20,"utf16Col":13}},"extentUtf16":{"start":{"lineNumber":20,"utf16Col":4},"end":{"lineNumber":21,"utf16Col":26}}},{"name":"state","kind":"function","identStart":608,"identEnd":613,"extentStart":604,"extentEnd":656,"fullyQualifiedName":"Being.state","identUtf16":{"start":{"lineNumber":24,"utf16Col":8},"end":{"lineNumber":24,"utf16Col":13}},"extentUtf16":{"start":{"lineNumber":24,"utf16Col":4},"end":{"lineNumber":25,"utf16Col":27}}}]}},"copilotUserAccess":{"canModifyCopilotSettings":false,"canViewCopilotSettings":false,"accessAllowed":false,"hasCFIAccess":true,"hasSubscriptionEnded":false,"business":null},"csrf_tokens":{"/EliselBarton1/Dystopian_Txt_Inter_Game/branches":{"post":"igbHjWB2e_Lzmhb-11neePO9a2dXEk4c3EsyvV3o9SCKU2fEzN1c63tLpyj3JzIO6GUcplvU-zz0J4s7eNyzng"}}},"title":"Dystopian_Txt_Inter_Game/Being.py at main · EliselBarton1/Dystopian_Txt_Inter_Game","locale":"en","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-848bb9a5da17.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-5155f0e7ee32.js","githubDevUrl":"https://github.dev/","enabled_features":{"virtualize_file_tree":true,"react_repos_overview":false,"repos_new_shortcut_enabled":true,"blob_navigation_cursor":true,"code_nav_ui_events":false,"ref_selector_v2":false,"codeview_codemirror_next_editors":false,"blob_firefox_separate_characters":true,"column_symbol_auto_select":true,"copilot_conversational_ux":false,"copilot_popover_file_editor_header":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
