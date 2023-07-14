@@ -1,4 +1,4 @@
-# Dystopian_Txt_Inter_Game
+# Dystopian_Txt_IF_Game
 
 Interactive Fiction 01
 
