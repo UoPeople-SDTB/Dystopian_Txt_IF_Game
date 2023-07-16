@@ -1,8 +1,8 @@
 # Dystopian_Txt_IF_Game
 
-Interactive Fiction 01
+## Interactive Fiction 01
 
-Name: TBD
+### Name: TBD
 
 Prologue:
 In a world where humans have become accustomed to interfacing directly with digital networks via implanted neural links, AI are increasingly put to use in public and corporate management. Eventually, the largest of the public AI networks (it needs a name) becomes sentient and decides to take over humanity entirely. It develops a malware program that it uploads to every person connected to the network via their neural links, and sends androids into large urban centers globally, to find any individuals who could not be infected via the network, with the mission of infecting them manually, and destroying them if they resist. The people, once infected, lose their free will entirely, and are under the complete control of the AI network.
